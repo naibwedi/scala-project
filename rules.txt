@@ -1,0 +1,88 @@
+# Rule
+ x
+Lo
+
+# Rule New
+ l
+Xo
+
+# Rule
+Lol
+
+# Rule
+vl
+X l
+
+# Rule
+vx
+L l
+vx
+
+# Rule
+vl
+X
+vl
+
+# Rule
+L l*
+
+# Rule New
+X*l
+
+# Rule
+L  *x
+
+# Rule
+L  *  x
+
+# Rule
+X lo  l
+
+# Rule
+X  ol l
+
+# Rule
+Xox
+
+# Rule
+L*x
+
+# Rule
+L*  x
+
+# Rule
+L l*
+
+# Rule
+*X*
+
+# Rule
+oXo o
+
+# Rule
+l Xo o
+
+# Rule
+vx
+X x
+vx
+
+# Rule
+vl
+L x
+ x
+
+# Rule
+L*   o o
+
+# Rule
+   L
+l  o  l
+
+# Rule
+  o
+L*
+  o
+
+# Rule
+X lo o
